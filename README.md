@@ -1,4 +1,10 @@
-### Hi there 👋 I am currently continueing to learn as much as I can about software development. 
+### Hi there 👋 I am a front end engineer. I am currently continuing to learn as much as I can about software development.
+
+I am currently seeking employment.
+
+My Coding languages:
+
+Javascript | React | HTML | CSS | Node.js  
 
 <!--
 **nmgolz/nmgolz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
