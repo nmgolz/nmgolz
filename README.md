@@ -1,6 +1,7 @@
 <div>
   
 </div>
+
 ### Hi there 👋 I am a front end engineer. I am currently continuing to learn as much as I can about software development.
 
 I am currently seeking employment.
