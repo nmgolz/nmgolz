@@ -2,7 +2,7 @@
 
 I am currently seeking employment.
 
-My Coding languages:
+### My Coding languages:
 
 Javascript | React | HTML | CSS | Node.js  
 
