@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am currently continueing to learn as much as I can about software development. 
 
 <!--
 **nmgolz/nmgolz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
