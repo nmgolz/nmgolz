@@ -1,4 +1,4 @@
-[![Header](https://github.com/nmgolz/nmgolz/blob/main/GithubBanner.jpg?raw=true "Header")]
+![Header](https://github.com/nmgolz/nmgolz/blob/main/GithubBanner.jpg?raw=true "Header")
 
 ### Hi there 👋 I am a front end engineer. I am currently continuing to learn as much as I can about software development.
 
