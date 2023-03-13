@@ -1,12 +1,18 @@
 ![Header](https://github.com/nmgolz/nmgolz/blob/main/GithubBanner.jpg?raw=true "Header")
 
-### Hi there 👋 I am a front end engineer. I am currently continuing to learn as much as I can about software development.
+### Hi there 👋 I am a frontend developer. I am currently learning as much as I can about software development.
+<a href="https://www.linkedin.com/in/nolan-golz/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
+</a>
 
-I am currently seeking employment.
+**seeking employment**
 
 ### My Coding languages:
 
 Javascript | React | HTML | CSS | Node.js  
+
+
+<img src="https://komarev.com/ghpvc/?username=nmgolz&style=flat-square&color=red" alt=""/>
 
 <!--
 **nmgolz/nmgolz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
